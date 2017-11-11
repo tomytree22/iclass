@@ -181,7 +181,6 @@ return [
         Laracasts\Flash\FlashServiceProvider::class,
         Prettus\Repository\Providers\RepositoryServiceProvider::class,
         \InfyOm\Generator\InfyOmGeneratorServiceProvider::class,
-        \InfyOm\AdminLTETemplates\AdminLTETemplatesServiceProvider::class, 
             Yajra\DataTables\DataTablesServiceProvider::class,
             Yajra\DataTables\ButtonsServiceProvider::class
 
